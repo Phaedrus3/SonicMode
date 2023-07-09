@@ -8,4 +8,4 @@ A mod for *The Long Dark* that allows you to sprint up to 30 times faster and ch
 2. Download the latest version of `SonicMode.dll` from the [releases page](https://github.com/phaedrus3/SonicMode/releases).
 3. Download the latest version of `ModSettings.dll` from its [release page](https://github.com/DigitalzombieTLD/ModSettings//releases).
 4. Move `SonicMode.dll` and `ModSettings.dll` into the Mods folder in your TLD install directory.
-<img src="https://github.com/Phaedrus3/ModListJson/raw/main/lsonicmode.png" width="80%">
+<img src="https://github.com/Phaedrus3/ModListJson/raw/main/sonicmode.jpg" width="80%">
